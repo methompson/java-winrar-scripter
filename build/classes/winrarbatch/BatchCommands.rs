@@ -1,0 +1,2 @@
+winrarbatch.BatchCommands
+winrarbatch.StreamGobbler

@@ -1,0 +1,2 @@
+winrarbatch.BatchGUI
+winrarbatch.BatchPanel
